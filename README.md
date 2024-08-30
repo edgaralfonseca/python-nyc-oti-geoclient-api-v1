@@ -35,7 +35,7 @@ This repository contains files that enable you to use Python to call the Geoclie
 - Sometimes there might be a several week delay in Geoclient reflecting what is in Geosupport.
 - Geoclient serves up a subset of attributes whereas Geosupport has all attributes.
 
-## How to use the 'nyc_oti_geoclient_api_1_0.py' python code
+### How to use the 'nyc_oti_geoclient_api_1_0.py' python code
 
 ```python
 
