@@ -9,7 +9,7 @@
 
 ## Repo description
 
-This repository contains files that enable you to use Python to call the Geoclient v1.0 API maintained by the NYC Office of Technology and Innovation (OTI) to geocode data. There are also copies of the files I used to conduct a presentation on this to NYC government colleagues at the October 2024 Analytics Exchange (AnEx) Learning Summit hosted by NYC OTI.
+This repository contains files that enable you to use Python to call the Geoclient v1.0 API maintained by the NYC Office of Technology and Innovation (OTI) to batch geocode data. There are also copies of the files I used to conduct a presentation on this to NYC government colleagues at the October 2024 Analytics Exchange (AnEx) Learning Summit hosted by NYC OTI.
 
 ## Key Repo files
 
