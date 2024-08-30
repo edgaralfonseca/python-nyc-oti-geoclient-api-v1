@@ -13,7 +13,7 @@ This repository contains files that enable you to use Python to call the Geoclie
 
 ## Key Repo files
 
-- [October 2024 AnEx Learning Summit Python Notebook](https://github.com/edgaralfonseca)
+- [October 2024 AnEx Learning Summit Python Notebook](https://github.com/edgaralfonseca/python-nyc-oti-geoclient-api-v1/blob/main/Oct_2024_AnEx_Learning_Summit_Notebook.ipynb)
 - [October 2024 AnEx Learning Summit Deck](https://github.com/edgaralfonseca)
 - [nyc_oti_geoclient_api_1_0.py](https://raw.githubusercontent.com/edgaralfonseca/python-nyc-oti-geoclient-api-v1/main/nyc_oti_geoclient_api_1_0.py)
 
