@@ -2,7 +2,10 @@
 # LinkedIn: https://www.linkedin.com/in/edgar-alfonseca/
 # GitHub: https://github.com/edgaralfonseca
 #
-# This Python script enables you to geocode location information using the NYC OTI Geoclient API v1.0
+# This Python script creates three functions that enable you to geocode location information using the NYC OTI Geoclient API v1.0
+# 1) oti_geoclient_api_address_endpoint: Sends a pandas dataframe (with address data points) to the API and returns a copy of the pandas dataframe with API results
+# 2) oti_geoclient_api_bin_endpoint: Sends a pandas dataframe (with BIN data points) to the API and returns a copy of the pandas dataframe with API results
+# 3) oti_geoclient_api_bbl_endpoint: Sends a pandas dataframe (with BBL data points) to the API and returns a copy of the pandas dataframe with API results
 #
 # API description: https://api-portal.nyc.gov/api-details#api=geoclient&operation=geoclient
 # v1.0 documentation: https://api.nyc.gov/geoclient/v1/doc/
