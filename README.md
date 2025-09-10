@@ -19,10 +19,7 @@ This repository contains files that enable you to use Python to call the Geoclie
 
 ## Things to Know
 
-**Geoclient API description:** [https://api-portal.nyc.gov/api-details#api=geoclient&operation=geoclient](https://api-portal.nyc.gov/api-details#api=geoclient&operation=geoclient)  
-**NYC OTI Geoclient v2.0 documentation:** [https://mlipper.github.io/geoclient/docs/current/user-guide/](https://mlipper.github.io/geoclient/docs/current/user-guide/)    
-**Note, the 1.0 documentation is no longer avaiable, but 2.0 is documentation is applicable to 1.0**    
-**NYC OTI GitHub repo:** [https://github.com/CityOfNewYork/geoclient](https://github.com/CityOfNewYork/geoclient)
+**WARNING As of 10/1/2025, NYC OTI decommissioned version 1.0 of this API, so please go here instead:** [https://github.com/edgaralfonseca/python-nyc-oti-geoclient-api-v2](https://github.com/edgaralfonseca/python-nyc-oti-geoclient-api-v2)
 
 ### Pre-requisites for you to use the API
 
